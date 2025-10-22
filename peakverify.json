@@ -4,5 +4,10 @@
         "name": "ModVerifier",
         "version": "0.1.0",
         "sha256": "568E113029CB3B9E586A5BBFA7CE7C94D463B9B670A28AE9C8FDA8C665E2BFE8"
+    },{
+        "guid": "com.github.Kirshoo.ModVerifier",
+        "name": "Peak Version Bypass",
+        "version": "1.0.2",
+        "sha256": "9EA3BC53E11E60CAF00F79BE1A73309C2291C780285940AE626F48FFBCFB6DCB"
     }
 ]

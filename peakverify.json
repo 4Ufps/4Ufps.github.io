@@ -34,5 +34,15 @@
         "name": "TerrainRandomiser",
         "version": "0.2.4",
         "sha256": "C80FDDEFE7F08418F31FF92DF5C04BF442E2485412E368B5D42002986BF8DE1C"
+    }{
+        "guid": "com.github.Kirshoo.ModVerifier",
+        "name": "FrontDesk",
+        "version": "1.0.0",
+        "sha256": "5F5F227FA94EDA5CA422E62C41CF0A1EE62CD884DDF3077CFA87CD42379406C2"
+    }{
+        "guid": "com.github.Kirshoo.ModVerifier",
+        "name": "Quick Restart",
+        "version": "1.5.1",
+        "sha256": "57559854B8E9279ACFF63954584634049A53F5E1068C12264BE1A8BCF8EF1F2E"
     }
 ]

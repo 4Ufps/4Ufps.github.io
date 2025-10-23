@@ -9,5 +9,30 @@
         "name": "Peak Version Bypass",
         "version": "1.0.2",
         "sha256": "9EA3BC53E11E60CAF00F79BE1A73309C2291C780285940AE626F48FFBCFB6DCB"
+    }{
+        "guid": "com.github.Kirshoo.ModVerifier",
+        "name": "Peak Seed Picker",
+        "version": "1.3.0",
+        "sha256": "133865FEA19002530543FB51F73B8053BDEEB5AF5A7EE764DB06729EE56E7C99"
+    }{
+        "guid": "com.github.Kirshoo.ModVerifier",
+        "name": "Peak Timer",
+        "version": "1.2.4",
+        "sha256": "D4EE2A92944CBEA047776B55774DA2243F51865505C02984E0430C9CD78E6D2E"
+    }{
+        "guid": "com.github.Kirshoo.ModVerifier",
+        "name": "Peak Unbound",
+        "version": "2.1.0",
+        "sha256": "D177A1B99A6ED869CBEC999B5E1E79181A4850400ED203F0B3A9D1113729EEDE"
+    }{
+        "guid": "com.github.Kirshoo.ModVerifier",
+        "name": "MorePeak",
+        "version": "1.9.1",
+        "sha256": "B701F8F8C77667437263307C73378A1096F5847867BED3C834B4E6E376EF412D"
+    }{
+        "guid": "com.github.Kirshoo.ModVerifier",
+        "name": "TerrainRandomiser",
+        "version": "0.2.4",
+        "sha256": "C80FDDEFE7F08418F31FF92DF5C04BF442E2485412E368B5D42002986BF8DE1C"
     }
 ]

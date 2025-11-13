@@ -52,5 +52,5 @@
         "name": "Quick Restart",
         "version": "1.5.1",
         "sha256": "57559854B8E9279ACFF63954584634049A53F5E1068C12264BE1A8BCF8EF1F2E"
-    }
+    },{"guid":"com.borealityy.peaktextchat","name":"PeakTextChat","version":"1.3.4","sha256":"0CA889C023223CD39B4B43A6E0149D3FA72F55EAC2177608E294D1B165F8C2F6"}
 ]

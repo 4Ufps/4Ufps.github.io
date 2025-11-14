@@ -94,5 +94,11 @@
         "name":"PhotonCustomPropsUtils",
         "version":"1.1.0",
         "sha256":"22DC3986D6EE0495B468BBB3BCE606F953A3C894D11EB33DEDDDF230DF1D82F1"
+    },
+    {
+        "guid":"com.pharmacomaniac.speedruntimer",
+        "name":"SpeedrunTimer",
+        "version":"0.2.6",
+        "sha256":"52D6EEFE237F4B9C4D1C41A3F8C6821729235DB826A526E88444BDA0EB1E4CFC"
     }
 ]

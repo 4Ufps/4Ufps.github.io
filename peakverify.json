@@ -1,9 +1,9 @@
-,[
+[
     {
         "guid": "com.github.Kirshoo.ModVerifier",
         "name": "ModVerifier",
-        "version": "0.1.0",
-        "sha256": "568E113029CB3B9E586A5BBFA7CE7C94D463B9B670A28AE9C8FDA8C665E2BFE8"
+        "version": "1.0.0",
+        "sha256": "4EACB7944970F70917E790E2DD44882B009B4FF6D82A63BCE6B36589EBA3B54A"
     },
     {
         "guid": "kirigiri.peak.peakversionbypass",
@@ -52,5 +52,47 @@
         "name": "Quick Restart",
         "version": "1.5.1",
         "sha256": "57559854B8E9279ACFF63954584634049A53F5E1068C12264BE1A8BCF8EF1F2E"
-    },{"guid":"com.borealityy.peaktextchat","name":"PeakTextChat","version":"1.3.4","sha256":"0CA889C023223CD39B4B43A6E0149D3FA72F55EAC2177608E294D1B165F8C2F6"},{"guid":"net.catcraze777.plugins.splitsstats","name":"Splits Stats","version":"1.2.1","sha256":"3391E6D44A60E7967EC5A438011C9155337A30F7B323366B656410E5EA4D3EDD"}
+    },
+    {
+        "guid":"com.borealityy.peaktextchat",
+        "name":"PeakTextChat",
+        "version":"1.3.4",
+        "sha256":"0CA889C023223CD39B4B43A6E0149D3FA72F55EAC2177608E294D1B165F8C2F6"
+    },
+    {
+        "guid":"net.catcraze777.plugins.splitsstats",
+        "name":"Splits Stats",
+        "version":"1.2.1",
+        "sha256":"3391E6D44A60E7967EC5A438011C9155337A30F7B323366B656410E5EA4D3EDD"
+    },
+    {
+        "guid":"off_grid.PEAKChoice",
+        "name":"PEAKChoice",
+        "version":"1.1.0",
+        "sha256":"1600428CF8AA28D5EAA1319A14FA600E6E856462223199D672B634AE976DF723"
+    },
+    {
+        "guid":"kirigiri.peak.nekogirioffline",
+        "name":"NekogiriPeakOffline",
+        "version":"1.0.0.0",
+        "sha256":"B4255E6AE699610D41132EC4D08D23AB4C8BDC7819CC8F513B1EE787527792BA"
+    },
+    {
+        "guid":"com.github.PEAKModding.PEAKLib.ModConfig",
+        "name":"PEAKLib.ModConfig",
+        "version":"1.6.0",
+        "sha256":"EB76692288456B647B753FA6B526765C76143858B56AB5B38630FAA383CBBE88"
+    },
+    {
+        "guid":"com.pharmacomaniac.settingsextenderforked",
+        "name":"Settings Extender Forked",
+        "version":"0.1.4",
+        "sha256":"49718BC056FA5402EFA96C5AD78CE09C72D519834366B429A556C1C579C89B96"
+    },
+    {
+        "guid":"com.snosz.photoncustompropsutils",
+        "name":"PhotonCustomPropsUtils",
+        "version":"1.1.0",
+        "sha256":"22DC3986D6EE0495B468BBB3BCE606F953A3C894D11EB33DEDDDF230DF1D82F1"
+    }
 ]

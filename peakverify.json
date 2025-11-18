@@ -1,11 +1,5 @@
 [
     {
-        "guid": "com.github.Kirshoo.ModVerifier",
-        "name": "ModVerifier",
-        "version": "1.0.0",
-        "sha256": "4EACB7944970F70917E790E2DD44882B009B4FF6D82A63BCE6B36589EBA3B54A"
-    },
-    {
         "guid": "com.borealityy.peaktextchat",
         "name": "PeakTextChat",
         "version": "1.3.4",
@@ -26,8 +20,14 @@
     {
         "guid": "off_grid.PEAKChoice",
         "name": "PEAKChoice",
-        "version": "1.1.0",
-        "sha256": "1600428CF8AA28D5EAA1319A14FA600E6E856462223199D672B634AE976DF723"
+        "version": "1.2.0",
+        "sha256": "21565A8FBC6A52DE8BDFC9CFE4A3D663FB11C478F60441D1EDA8114C678EEBCE"
+    },
+    {
+        "guid": "off_grid.NetworkingLibrary",
+        "name": "NetworkingLibrary",
+        "version": "1.0.4",
+        "sha256": "67F70FDD31F5FD0C778EB7688EE809B6022F141A4E7EBF0EE6FB6154B2AEB6DE"
     },
     {
         "guid": "PEAKUnbound",

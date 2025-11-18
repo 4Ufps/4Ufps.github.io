@@ -118,5 +118,11 @@
         "name": "PeakTimer",
         "version": "1.2.3",
         "sha256": "D4EE2A92944CBEA047776B55774DA2243F51865505C02984E0430C9CD78E6D2E"
+    },
+    {
+        "guid": "com.turtledsr.peakversionbypass",
+        "name": "PeakVersionBypass",
+        "version": "1.0.0",
+        "sha256": "3A097A0C9AD4380910F1579964C954358D3EE5B7B9297163BF09AD2D9C83F6DA"
     }
 ]

@@ -48,6 +48,12 @@
         "sha256": "9EA3BC53E11E60CAF00F79BE1A73309C2291C780285940AE626F48FFBCFB6DCB"
     },
     {
+        "guid": "com.github.Kirshoo.ModVerifier",
+        "name": "ModVerifier",
+        "version": "1.0.0",
+        "sha256": "4EACB7944970F70917E790E2DD44882B009B4FF6D82A63BCE6B36589EBA3B54A"
+    },
+    {
         "guid": "com.github.PEAKModding.PEAKLib.ModConfig",
         "name": "PEAKLib.ModConfig",
         "version": "1.6.0",

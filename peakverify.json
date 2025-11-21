@@ -20,8 +20,8 @@
     {
         "guid": "off_grid.PEAKChoice",
         "name": "PEAKChoice",
-        "version": "1.2.0",
-        "sha256": "21565A8FBC6A52DE8BDFC9CFE4A3D663FB11C478F60441D1EDA8114C678EEBCE"
+        "version": "1.3.1",
+        "sha256": "CDA3838C57888069CC7A9C8BD66B1D3043B2CEAC2AB321194CEC2BE276CB0E61"
     },
     {
         "guid": "off_grid.NetworkingLibrary",
@@ -104,8 +104,8 @@
     {
         "guid": "com.snosz.terrainrandomiser",
         "name": "TerrainRandomiser",
-        "version": "0.2.5",
-        "sha256": "074C0A0BD5FDB9C592BB34A43B0296298DB059DA8BC25D8C463B74874983469C"
+        "version": "1.0.0",
+        "sha256": "D21C66266ACCBF5D2332C68DE79F23DE308959963009714C00862CC609A51EC3"
     },
     {
         "guid": "tony4twentys.quickrestart",

@@ -130,5 +130,11 @@
         "name": "PeakVersionBypass",
         "version": "1.0.0",
         "sha256": "3A097A0C9AD4380910F1579964C954358D3EE5B7B9297163BF09AD2D9C83F6DA"
+    },
+    {
+        "guid":"kirigiri.peak.nekogirioffline",
+        "name":"NekogiriPeakOffline",
+        "version":"1.0.0.0",
+        "sha256": "F35FB666DE074A4637DE6CD20D7A71B69ADE909F6C656AB374FC86F618F48022"
     }
 ]

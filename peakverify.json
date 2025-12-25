@@ -8,8 +8,8 @@
     {
         "guid": "net.catcraze777.plugins.splitsstats",
         "name": "Splits Stats",
-        "version": "1.2.2",
-        "sha256": "4140BC35F3AC72B0C5A9D7B618E4377DE679A588188A6646FC29223844F75A39"
+        "version": "1.2.3",
+        "sha256": "D72FEFFB440E6691BF2B6578E7CAF35842C13FD11270023E986391751885325F"
     },
     {
         "guid": "com.CTNOriginals.peak.FrontDesk",
@@ -62,8 +62,8 @@
     {
         "guid": "com.github.PEAKModding.PEAKLib.Core",
         "name": "PEAKLib.Core",
-        "version": "1.7.0",
-        "sha256": "CB925E12B00E6CC87A1EDDC197EEBA9FE9B424CE7C22E00ED349E56988E998F2"
+        "version": "1.7.2",
+        "sha256": "B4C54FEC126FCFA6FF2BE87A82419138CF774285A40112CFF590A43F720F66A9"
     },
     {
         "guid": "com.github.PEAKModding.PEAKLib.UI",
@@ -132,9 +132,9 @@
         "sha256": "3A097A0C9AD4380910F1579964C954358D3EE5B7B9297163BF09AD2D9C83F6DA"
     },
     {
-        "guid":"kirigiri.peak.nekogirioffline",
-        "name":"NekogiriPeakOffline",
-        "version":"1.0.0.0",
+        "guid": "kirigiri.peak.nekogirioffline",
+        "name": "NekogiriPeakOffline",
+        "version": "1.0.0.0",
         "sha256": "F35FB666DE074A4637DE6CD20D7A71B69ADE909F6C656AB374FC86F618F48022"
     }
 ]

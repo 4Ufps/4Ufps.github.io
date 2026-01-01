@@ -104,8 +104,8 @@
     {
         "guid": "com.snosz.terrainrandomiser",
         "name": "TerrainRandomiser",
-        "version": "1.0.2",
-        "sha256": "E1A17BA8289C64F9ED838EE1AF35679FA88DF3AF0513F5835F31AEEAEB46EA2A"
+        "version": "1.0.3",
+        "sha256": "BB461692EBCCA3D1F5F638222F79F1E31754626947FA0A3625914C781A59FCE2"
     },
     {
         "guid": "tony4twentys.quickrestart",

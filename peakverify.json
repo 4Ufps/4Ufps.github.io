@@ -8,8 +8,8 @@
   {
     "guid": "net.catcraze777.plugins.splitsstats",
     "name": "Splits Stats",
-    "version": "1.2.3",
-    "sha256": "D72FEFFB440E6691BF2B6578E7CAF35842C13FD11270023E986391751885325F"
+    "version": "1.3.0",
+    "sha256": "EAD7D11D2F4BFD211156123CA2060410D3E8A6A8180C5FB32355D9FF88494036"
   },
   {
     "guid": "com.CTNOriginals.peak.FrontDesk",
@@ -104,8 +104,8 @@
   {
     "guid": "com.snosz.terrainrandomiser",
     "name": "TerrainRandomiser",
-    "version": "1.1.4",
-    "sha256": "286B50A10CC511A60BB257FE22A0C47412746591DC46FDEDE5183629FBE1D543"
+    "version": "1.1.5",
+    "sha256": "A8F0F1931C52547E9956E7647304389ED0D3DD0A5CD9EC3D340A026955426B1F"
   },
   {
     "guid": "tony4twentys.quickrestart",
@@ -131,7 +131,7 @@
     "version": "1.0.0",
     "sha256": "3A097A0C9AD4380910F1579964C954358D3EE5B7B9297163BF09AD2D9C83F6DA"
   },
-  {
+    {
     "guid": "com.turtledsr.peakversionbypass",
     "name": "PeakVersionBypass",
     "version": "1.0.0",
@@ -156,4 +156,5 @@
     "sha256": "825B945235095B44BDDE73FE91FE3D1A2A831B98CC35FE72AABA0A0F6A4B2AED"
   }
 ]
+
 

@@ -104,8 +104,8 @@
   {
     "guid": "com.snosz.terrainrandomiser",
     "name": "TerrainRandomiser",
-    "version": "1.1.5",
-    "sha256": "A8F0F1931C52547E9956E7647304389ED0D3DD0A5CD9EC3D340A026955426B1F"
+    "version": "1.1.6",
+    "sha256": "3B35107D1BD3DE46A8369D287E7644C57C22419337B48042560209D8A4120772"
   },
   {
     "guid": "tony4twentys.quickrestart",
@@ -131,7 +131,7 @@
     "version": "1.0.0",
     "sha256": "3A097A0C9AD4380910F1579964C954358D3EE5B7B9297163BF09AD2D9C83F6DA"
   },
-    {
+  {
     "guid": "com.turtledsr.peakversionbypass",
     "name": "PeakVersionBypass",
     "version": "1.0.0",

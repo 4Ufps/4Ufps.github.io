@@ -50,8 +50,8 @@
   {
     "guid": "com.github.Kirshoo.ModVerifier",
     "name": "ModVerifier",
-    "version": "1.0.0",
-    "sha256": "4EACB7944970F70917E790E2DD44882B009B4FF6D82A63BCE6B36589EBA3B54A"
+    "version": "1.1.0",
+    "sha256": "AF4DD2E6EB9C998113528B93A256B547A3EED2FDE4679E44CA07193098B4D8FC"
   },
   {
     "guid": "com.github.PEAKModding.PEAKLib.ModConfig",

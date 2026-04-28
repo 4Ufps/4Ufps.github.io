@@ -12,6 +12,12 @@
     "sha256": "EAD7D11D2F4BFD211156123CA2060410D3E8A6A8180C5FB32355D9FF88494036"
   },
   {
+    "guid": "com.chouja.DisableClientSideTimeout",
+    "name": "DisableClientSideTimeout",
+    "version": "1.0.0",
+    "sha256": "E0244174EB5232B554E691267932996B7D5408D049EF58DFFBE38AF6C749D17F"
+  },
+  {
     "guid": "com.CTNOriginals.peak.FrontDesk",
     "name": "FrontDesk",
     "version": "1.0.0",
@@ -24,10 +30,10 @@
     "sha256": "0882E702F73BDBED93F7C13476E45C6A75B7CD02953066791253144C77DEE7EB"
   },
   {
-    "guid": "off_grid.NetworkingLibrary",
+    "guid": "AeralisFoundation.NetworkingLibrary",
     "name": "NetworkingLibrary",
-    "version": "1.0.7",
-    "sha256": "C0405FD44BA32AE1392ACCC3E03EBE0ED9EE09A3B1F969589199DC4ADE1D49BB"
+    "version": "1.0.9",
+    "sha256": "19944DB1D06FFCFA4F0FCC3C1118F812B9886C25415B56CEB42F62F9F9DFBDB5"
   },
   {
     "guid": "PEAKUnbound",
@@ -124,12 +130,6 @@
     "name": "PeakTimer",
     "version": "1.2.3",
     "sha256": "D4EE2A92944CBEA047776B55774DA2243F51865505C02984E0430C9CD78E6D2E"
-  },
-  {
-    "guid": "com.turtledsr.peakversionbypass",
-    "name": "PeakVersionBypass",
-    "version": "1.0.0",
-    "sha256": "3A097A0C9AD4380910F1579964C954358D3EE5B7B9297163BF09AD2D9C83F6DA"
   },
   {
     "guid": "com.turtledsr.peakversionbypass",

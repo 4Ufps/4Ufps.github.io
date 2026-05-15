@@ -14,8 +14,8 @@
   {
     "guid": "com.chouja.DisableClientSideTimeout",
     "name": "DisableClientSideTimeout",
-    "version": "1.0.0",
-    "sha256": "E0244174EB5232B554E691267932996B7D5408D049EF58DFFBE38AF6C749D17F"
+    "version": "1.0.2",
+    "sha256": "F55DFA642D906ECE0BC4C2F75A9B9857C9F5FE6502E614AFEA5644F50CD00B68"
   },
   {
     "guid": "com.CTNOriginals.peak.FrontDesk",
@@ -110,8 +110,8 @@
   {
     "guid": "com.snosz.terrainrandomiser",
     "name": "TerrainRandomiser",
-    "version": "1.1.6",
-    "sha256": "3B35107D1BD3DE46A8369D287E7644C57C22419337B48042560209D8A4120772"
+    "version": "1.1.7",
+    "sha256": "A1DD99CDEE462F2D333378DA01B12DD5D45E0226E66808BABFD4F68388FB0923"
   },
   {
     "guid": "tony4twentys.quickrestart",
@@ -162,5 +162,4 @@
     "sha256": "E0244174EB5232B554E691267932996B7D5408D049EF58DFFBE38AF6C749D17F"
   }
 ]
-
 

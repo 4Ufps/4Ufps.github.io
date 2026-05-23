@@ -36,6 +36,12 @@
     "sha256": "19944DB1D06FFCFA4F0FCC3C1118F812B9886C25415B56CEB42F62F9F9DFBDB5"
   },
   {
+    "guid": "PEAKapalooza",
+    "name": "PEAKapalooza",
+    "version": "0.6.4",
+    "sha256": "2A48E0DCC983A3273BD3353DEC826106F048F124E17DC347978B6775C3972D57"
+  },
+  {
     "guid": "PEAKUnbound",
     "name": "PeakUnbound",
     "version": "1.4.0",
@@ -138,28 +144,10 @@
     "sha256": "3A097A0C9AD4380910F1579964C954358D3EE5B7B9297163BF09AD2D9C83F6DA"
   },
   {
-    "guid": "kirigiri.peak.nekogirioffline",
-    "name": "NekogiriPeakOffline",
-    "version": "1.0.0.0",
-    "sha256": "F35FB666DE074A4637DE6CD20D7A71B69ADE909F6C656AB374FC86F618F48022"
-  },
-  {
-    "guid": "com.snosz.terrainrandomiser",
-    "name": "TerrainRandomiser",
-    "version": "0.1.0",
-    "sha256": "6DBBE1B10FEAA48833315E2C6863A58E6D26710FB711A7E6352B9058E2BA7729"
-  },
-  {
-    "guid": "tony4twentys.quickrestart",
-    "name": "Quick Restart",
+    "guid": "Vandring.peakfogfix",
+    "name": "Peak To Beach Fog Fixer",
     "version": "1.0.0",
-    "sha256": "825B945235095B44BDDE73FE91FE3D1A2A831B98CC35FE72AABA0A0F6A4B2AED"
-  },
-  {
-    "guid": "com.chouja.DisableClientSideTimeout",
-    "name": "DisableClientSideTimeout",
-    "version": "1.0.0",
-    "sha256": "E0244174EB5232B554E691267932996B7D5408D049EF58DFFBE38AF6C749D17F"
+    "sha256": "80BBB5A5DBC05DFFE81B700081B58869A15EA4811A94D7F779C27D0040BDE65C"
   }
 ]
 

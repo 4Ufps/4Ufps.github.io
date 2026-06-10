@@ -48,6 +48,12 @@
     "sha256": "D177A1B99A6ED869CBEC999B5E1E79181A4850400ED203F0B3A9D1113729EEDE"
   },
   {
+    "guid": "BadgeRemover",
+    "name": "Badge Manager",
+    "version": "1.1.5",
+    "sha256": "D15D00A77B775804D4CE7FABB41B7CC5666701B4F11428FA5AABE6F8F5B01494"
+  },
+  {
     "guid": "kirigiri.peak.nekogirioffline",
     "name": "NekogiriPeakOffline",
     "version": "1.0.0.0",
@@ -150,4 +156,3 @@
     "sha256": "80BBB5A5DBC05DFFE81B700081B58869A15EA4811A94D7F779C27D0040BDE65C"
   }
 ]
-

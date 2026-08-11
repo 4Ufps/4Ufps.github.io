@@ -1,5 +1,11 @@
 [
   {
+    "guid": "com.atomic.details",
+    "name": "MoreRunDetails",
+    "version": "0.2.6",
+    "sha256": "B6E5A3C7DC6498F78D1511723613CDBC4DFCB5B8C37463CFC9A76C6F77A42C02"
+  },
+  {
     "guid": "com.borealityy.peaktextchat",
     "name": "PeakTextChat",
     "version": "1.3.4",

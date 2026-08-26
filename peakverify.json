@@ -72,6 +72,12 @@
     "sha256": "9EA3BC53E11E60CAF00F79BE1A73309C2291C780285940AE626F48FFBCFB6DCB"
   },
   {
+    "guid": "my.pahsiv.MyBananaDontHurtMe",
+    "name": "MyBananaDontHurtMe",
+    "version": "0.1.7",
+    "sha256": "49B40B17F5D24C03674CE3C59D82E58148F097381F0B1EB83631322E5AA1AC24"
+  },
+  {
     "guid": "com.github.Kirshoo.ModVerifier",
     "name": "ModVerifier",
     "version": "1.1.0",

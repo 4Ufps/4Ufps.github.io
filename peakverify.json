@@ -78,6 +78,12 @@
     "sha256": "49B40B17F5D24C03674CE3C59D82E58148F097381F0B1EB83631322E5AA1AC24"
   },
   {
+    "guid": "my.pahsiv.MyMousyWig",
+    "name": "MyMousyWig",
+    "version": "0.1.1",
+    "sha256": "222ED01EB7A65DB3A9E1DBCEE10A1C244B3AA041998098BEAB4895988625A136"
+  },
+  {
     "guid": "com.github.Kirshoo.ModVerifier",
     "name": "ModVerifier",
     "version": "1.1.0",
@@ -86,8 +92,8 @@
   {
     "guid": "com.github.PEAKModding.PEAKLib.ModConfig",
     "name": "PEAKLib.ModConfig",
-    "version": "1.6.0",
-    "sha256": "EB76692288456B647B753FA6B526765C76143858B56AB5B38630FAA383CBBE88"
+    "version": "1.6.1",
+    "sha256": "3F39A278D7441C2DA5B2F7132609252AE464113E8170DBAF9E8FEE938C5FF1EF"
   },
   {
     "guid": "com.github.PEAKModding.PEAKLib.Core",
@@ -98,8 +104,8 @@
   {
     "guid": "com.github.PEAKModding.PEAKLib.UI",
     "name": "PEAKLib.UI",
-    "version": "1.6.1",
-    "sha256": "035DC6C6CA5C177B4E6A6CAAE6FC819E3DD9E9BD46E306F3DB0713FDD82AAB4C"
+    "version": "1.6.2",
+    "sha256": "909A9ED5FBC916FA3AECE77AFF696F1122ED5BCFA60FE52C975532ABBE558B1C"
   },
   {
     "guid": "com.github.PEAKModding.SoftDependencyFix",

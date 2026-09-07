@@ -1,5 +1,11 @@
 [
   {
+    "guid": "com.an0n.fairStorms",
+    "name": "An0n Fair Storms",
+    "version": "1.0.6",
+    "sha256": "85B995EFC9162E6622F6BE79A2DDA56EE377658262A49FD96B865BD0244E5A5B"
+  },
+  {
     "guid": "com.atomic.details",
     "name": "MoreRunDetails",
     "version": "0.2.6",
@@ -56,8 +62,8 @@
   {
     "guid": "BadgeRemover",
     "name": "Badge Manager",
-    "version": "1.1.5",
-    "sha256": "D15D00A77B775804D4CE7FABB41B7CC5666701B4F11428FA5AABE6F8F5B01494"
+    "version": "1.1.7",
+    "sha256": "488BDE5C59567E6D65E4FA91AA6F843B9CBCA34CDF51013F9C71B3C2B8B6A6D6"
   },
   {
     "guid": "kirigiri.peak.nekogirioffline",
@@ -92,8 +98,8 @@
   {
     "guid": "com.github.PEAKModding.PEAKLib.ModConfig",
     "name": "PEAKLib.ModConfig",
-    "version": "1.6.1",
-    "sha256": "3F39A278D7441C2DA5B2F7132609252AE464113E8170DBAF9E8FEE938C5FF1EF"
+    "version": "1.7.0",
+    "sha256": "6363FE99D4CD884A7D45497B25DAE041CCE32708EC9D0B9A93771584F53E552D"
   },
   {
     "guid": "com.github.PEAKModding.PEAKLib.Core",

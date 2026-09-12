@@ -20,8 +20,8 @@
   {
     "guid": "net.catcraze777.plugins.splitsstats",
     "name": "Splits Stats",
-    "version": "1.3.0",
-    "sha256": "EAD7D11D2F4BFD211156123CA2060410D3E8A6A8180C5FB32355D9FF88494036"
+    "version": "1.4.0",
+    "sha256": "8981B62327D4CDCC2E21583CCAA484C72868941C3C3309215EFD5DC6CC3CCA92"
   },
   {
     "guid": "com.chouja.DisableClientSideTimeout",
@@ -98,8 +98,8 @@
   {
     "guid": "com.github.PEAKModding.PEAKLib.ModConfig",
     "name": "PEAKLib.ModConfig",
-    "version": "1.7.0",
-    "sha256": "6363FE99D4CD884A7D45497B25DAE041CCE32708EC9D0B9A93771584F53E552D"
+    "version": "1.8.1",
+    "sha256": "6E4812BA2ED5506D309AF666D90548FB56E20A2513142A6576B42C8827B16A8E"
   },
   {
     "guid": "com.github.PEAKModding.PEAKLib.Core",
@@ -110,8 +110,8 @@
   {
     "guid": "com.github.PEAKModding.PEAKLib.UI",
     "name": "PEAKLib.UI",
-    "version": "1.6.2",
-    "sha256": "909A9ED5FBC916FA3AECE77AFF696F1122ED5BCFA60FE52C975532ABBE558B1C"
+    "version": "1.7.0",
+    "sha256": "5D5705F55D2CDFCADAC736125AD5FE8B7CDD3DF86B00743F3DE8C5D2C2275255"
   },
   {
     "guid": "com.github.PEAKModding.SoftDependencyFix",

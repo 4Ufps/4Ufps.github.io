@@ -24,6 +24,12 @@
     "sha256": "8981B62327D4CDCC2E21583CCAA484C72868941C3C3309215EFD5DC6CC3CCA92"
   },
   {
+    "guid": "my.pahsiv.MyMousyWig",
+    "name": "MyMousyWig",
+    "version": "0.1.1",
+    "sha256": "222ed0e989d36efd65a9ca74d3b3320688913fc947a03a5920558fccf73d051e"
+  },
+  {
     "guid": "com.chouja.DisableClientSideTimeout",
     "name": "DisableClientSideTimeout",
     "version": "1.0.2",
@@ -98,8 +104,8 @@
   {
     "guid": "com.github.PEAKModding.PEAKLib.ModConfig",
     "name": "PEAKLib.ModConfig",
-    "version": "1.8.1",
-    "sha256": "6E4812BA2ED5506D309AF666D90548FB56E20A2513142A6576B42C8827B16A8E"
+    "version": "1.8.2",
+    "sha256": "BF28E6EFDC0069DF7FBEB0EEA3695D50660FDE6A138BB48D33AF3B1A28375691"
   },
   {
     "guid": "com.github.PEAKModding.PEAKLib.Core",
@@ -110,8 +116,8 @@
   {
     "guid": "com.github.PEAKModding.PEAKLib.UI",
     "name": "PEAKLib.UI",
-    "version": "1.7.0",
-    "sha256": "5D5705F55D2CDFCADAC736125AD5FE8B7CDD3DF86B00743F3DE8C5D2C2275255"
+    "version": "1.7.2",
+    "sha256": "91F2503323EB8D3560A4843DCA282B73CD1EA420D0B2DFA40774F3655B3CEFFB"
   },
   {
     "guid": "com.github.PEAKModding.SoftDependencyFix",
@@ -160,6 +166,12 @@
     "name": "Quick Restart",
     "version": "2.4.0",
     "sha256": "4EF619C46A675A43E57C9AEED3728866F636C8B209F06DDE08FAE2D3534029A8"
+  },
+  {
+    "guid": "tony4twentys.Summit_to_Shore",
+    "name": "Summit to Shore",
+    "version": "1.0.0",
+    "sha256": "6AB0E9F674854A6702A7C7E3252BB3F7E4AF49755111C21445056C9476ACD003"
   },
   {
     "guid": "com.turtledsr.peakseedpicker",

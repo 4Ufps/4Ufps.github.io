@@ -24,16 +24,16 @@
     "sha256": "8981B62327D4CDCC2E21583CCAA484C72868941C3C3309215EFD5DC6CC3CCA92"
   },
   {
-    "guid": "my.pahsiv.MyMousyWig",
-    "name": "MyMousyWig",
-    "version": "0.1.1",
-    "sha256": "222ED0E989D36EFD65A9CA74D3B3320688913FC947A03A5920558FCCF73D051E"
-  },
-  {
     "guid": "com.chouja.DisableClientSideTimeout",
     "name": "DisableClientSideTimeout",
     "version": "1.0.2",
     "sha256": "F55DFA642D906ECE0BC4C2F75A9B9857C9F5FE6502E614AFEA5644F50CD00B68"
+  },
+  {
+    "guid": "Dummy.PeakClawStallFix",
+    "name": "PeakClawStallFix",
+    "version": "1.0.0",
+    "sha256": "FDDF1D9AF5F5DBFB8B6843A8AEE1849A8231D1693DC2F0CA583EF59A39A9E93C"
   },
   {
     "guid": "com.CTNOriginals.peak.FrontDesk",
@@ -52,6 +52,12 @@
     "name": "NetworkingLibrary",
     "version": "1.0.9",
     "sha256": "19944DB1D06FFCFA4F0FCC3C1118F812B9886C25415B56CEB42F62F9F9DFBDB5"
+  },
+  {
+    "guid": "my.pahsiv.MyMousyWig",
+    "name": "MyMousyWig",
+    "version": "0.1.1",
+    "sha256": "222ED0E989D36EFD65A9CA74D3B3320688913FC947A03A5920558FCCF73D051E"
   },
   {
     "guid": "PEAKapalooza",

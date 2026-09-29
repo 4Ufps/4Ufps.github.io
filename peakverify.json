@@ -32,8 +32,8 @@
   {
     "guid": "Dummy.PeakClawStallFix",
     "name": "PeakClawStallFix",
-    "version": "1.0.0",
-    "sha256": "FDDF1D9AF5F5DBFB8B6843A8AEE1849A8231D1693DC2F0CA583EF59A39A9E93C"
+    "version": "1.0.1",
+    "sha256": "9B031D5B7DD5BE7194423844D2BA6E54CC9A2C2183DD074D0BDE140787D5E22C"
   },
   {
     "guid": "com.CTNOriginals.peak.FrontDesk",
@@ -52,12 +52,6 @@
     "name": "NetworkingLibrary",
     "version": "1.0.9",
     "sha256": "19944DB1D06FFCFA4F0FCC3C1118F812B9886C25415B56CEB42F62F9F9DFBDB5"
-  },
-  {
-    "guid": "my.pahsiv.MyMousyWig",
-    "name": "MyMousyWig",
-    "version": "0.1.1",
-    "sha256": "222ED0E989D36EFD65A9CA74D3B3320688913FC947A03A5920558FCCF73D051E"
   },
   {
     "guid": "PEAKapalooza",
@@ -178,6 +172,12 @@
     "name": "Summit to Shore",
     "version": "1.0.0",
     "sha256": "6AB0E9F674854A6702A7C7E3252BB3F7E4AF49755111C21445056C9476ACD003"
+  },
+  {
+    "guid": "my.pahsiv.MyMousyWig",
+    "name": "MyMousyWig",
+    "version": "0.1.1",
+    "sha256": "222ED0E989D36EFD65A9CA74D3B3320688913FC947A03A5920558FCCF73D051E"
   },
   {
     "guid": "com.turtledsr.peakseedpicker",

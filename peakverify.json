@@ -32,8 +32,8 @@
   {
     "guid": "Dummy.PeakClawStallFix",
     "name": "PeakClawStallFix",
-    "version": "1.0.1",
-    "sha256": "9B031D5B7DD5BE7194423844D2BA6E54CC9A2C2183DD074D0BDE140787D5E22C"
+    "version": "1.0.2",
+    "sha256": "2CC3BA2777B6936B1278CDD8C75BE73DA1BBF82E1A21611A90407A4F8A51FB0C"
   },
   {
     "guid": "com.CTNOriginals.peak.FrontDesk",

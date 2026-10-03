@@ -202,5 +202,11 @@
     "name": "Peak To Beach Fog Fixer",
     "version": "1.0.0",
     "sha256": "80BBB5A5DBC05DFFE81B700081B58869A15EA4811A94D7F779C27D0040BDE65C"
+  },
+  {
+    "guid": "Dummy.PeakClawStallFix",
+    "name": "PeakClawStallFix",
+    "version": "1.0.1",
+    "sha256": "9B031D5B7DD5BE7194423844D2BA6E54CC9A2C2183DD074D0BDE140787D5E22C"
   }
 ]

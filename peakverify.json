@@ -168,6 +168,12 @@
     "sha256": "4EF619C46A675A43E57C9AEED3728866F636C8B209F06DDE08FAE2D3534029A8"
   },
   {
+    "guid": "my.pahsiv.MyMousyWig",
+    "name": "MyMousyWig",
+    "version": "0.1.1",
+    "sha256": "222ED0E989D36EFD65A9CA74D3B3320688913FC947A03A5920558FCCF73D051E"
+  },
+  {
     "guid": "tony4twentys.Summit_to_Shore",
     "name": "Summit to Shore",
     "version": "1.0.0",
